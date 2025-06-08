@@ -1,4 +1,4 @@
 ⚠️ IMPORTANT: For Seamless Co-op mod ONLY!
 Modified files = potential account ban online.
-Always restore original before multiplayer!
+Always restore original before multiplayer!!!
 Pattern works on 1.01.1 game version
