@@ -1,5 +1,5 @@
-⚠️ IMPORTANT: For Seamless Co-op Mod Only!
-Modifying game files may result in an online ban.
-Always restore the original executable before going online.
+[red]⚠️ IMPORTANT: For Seamless Co-op Mod Only!
+[red]Modifying game files may result in an online ban.
+[red]Always restore the original executable before going online.
 
-✅ Pattern compatibility: Tested with game version 1.01.1
+[green]✅ Pattern compatibility: Tested with game version 1.01.1
