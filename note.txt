@@ -1,3 +1,3 @@
-⚠️ IMPORTANT: For Seamless Co-op mod ONLY!\n"
-"Modified files = potential account ban online.\n"
-"Always restore original before multiplayer!
+⚠️ IMPORTANT: For Seamless Co-op mod ONLY!
+Modified files = potential account ban online.
+Always restore original before multiplayer!
