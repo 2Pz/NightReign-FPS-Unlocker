@@ -14,7 +14,7 @@ These patterns are automatically fetched by the NightReign FPS Unlocker tool. Ma
 
 ## Game Version Compatibility
 
-- Current patterns: Game version 1.0.0
+- Current patterns: Game version 1.01.1
 - Last updated: June 8, 2025
 
 ## Disclaimer
