@@ -2,4 +2,4 @@
 [red]Modifying game files may result in an online ban.
 [red]Always restore the original executable before going online.
 
-[green]✅ Patterns compatibility: Tested with game version 1.01.2
+[green]✅ Patterns compatibility: Tested with game version 1.01.3
